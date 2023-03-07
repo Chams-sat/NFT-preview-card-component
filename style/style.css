@@ -167,3 +167,9 @@ span:hover {
     opacity: 1;
     border-radius: .5rem;
 }
+
+@media (min-width: 1000px) {
+    .card {
+    height: 80%
+    }
+}
